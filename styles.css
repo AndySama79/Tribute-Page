@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #F6F6F6;
+  align-items: center;
+}
+#img-div {
+  background-color: #FCFEFE;
+  text-align: center;
+}
+#image {
+  padding: 16px auto;
+  height: auto;
+  max-width: 900px;
+}
+#tribute-info {
+  text-align: center;
+}
+.info {
+  display: table;
+  margin:30px auto;
+  text-align: left;
+}
+li {
+  margin:16px 0;
+}
